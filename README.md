@@ -1,6 +1,6 @@
-# Can We Benefit from Deploying Federated Recommender Systems? An Insightful Review of Fine-grained Scenarios
+# A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions
 
-This is a respository for our survey "**Can We Benefit from Deploying Federated Recommender Systems? An Insightful Review of Fine-grained Scenarios**", which is organized with the following five parts.
+This is a respository for our survey "**A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions**", which is organized with the following five parts.
 
 |[Collaborative FedRec](#Collaborative)|[Cross-domain FedRec](#cross-domain-fedrec)|[Multi-modal FedRec](#multi-modal-fedrec)|[LLM-based FedRec](#llm-based-fedrec)|[Dataset](#dataset)|
 |--|--|--|--|--|
