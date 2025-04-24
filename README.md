@@ -1,6 +1,6 @@
 # A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions
 
-This is a respository for our survey "**A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions**", which is organized with the following five parts.
+This is a repository for our survey "**A Scenario-Oriented Survey of Federated Recommender Systems: Techniques, Challenges, and Future Directions**", which is organized into the following five parts.
 
 |[Collaborative FedRec](#Collaborative)|[Cross-domain FedRec](#cross-domain-fedrec)|[Multi-modal FedRec](#multi-modal-fedrec)|[LLM-based FedRec](#llm-based-fedrec)|[Dataset](#dataset)|
 |--|--|--|--|--|
