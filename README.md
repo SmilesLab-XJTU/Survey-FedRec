@@ -127,6 +127,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 |[Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2410.08249v1)|FedGCDR|2024|NeurIPS| [![Github](https://img.shields.io/github/stars/LafinHana/FedGCDR?style=flat)](https://github.com/LafinHana/FedGCDR/tree/main)|
 |[Privacy-Preserving Cross-Domain Sequential Recommendation](https://ieeexplore.ieee.org/abstract/document/10415824)|PriCDSR|2024|ICDM||
 |[FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning](https://aclanthology.org/2025.coling-main.581.pdf)|FedCSR|2025|COLING|[![Github](https://img.shields.io/github/stars/zdy769243418/FedCSR-v1?style=flat)](https://github.com/zdy769243418/FedCSR-v1)|
+|[Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3728359)|FFMSR|2025|TOIS|[![Github](https://img.shields.io/github/stars/Sapphire-star/FFMSR?style=flat)](https://github.com/Sapphire-star/FFMSR)|
 
 
 
