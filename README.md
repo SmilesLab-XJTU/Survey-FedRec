@@ -10,7 +10,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 
 |Title|Abbreviation|Year|Venue|Code|
 |-----|------------|----|-----|----|
-|[Federated Meta-Learning with Fast Convergence and Efficient Communication](https://arxiv.org/abs/1802.07876v2)|FCF|2019|arxiv||
+|[Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://doi.org/10.48550/arXiv.1901.09888)|FCF|2019|arxiv||
 |[Secure federated matrix factorization](https://ieeexplore.ieee.org/document/9162459)|FedMF|2021|IEEE Intelligent Systems||
 | [FedRec: Federated Recommendation With Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) |FedRec|2021| IEEE Intelligent Systems ||
 | [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) |FedRec++|2021|AAAI|[![Github](https://img.shields.io/badge/Code-white?logo=codementor&labelColor=b31b1b)](https://csse.szu.edu.cn/staff/panwk/publications/FedRecPlusPlus/)|
