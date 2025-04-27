@@ -124,7 +124,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 | [Privacy-preserving Cross-domain Recommendation with Federated Graph Learning](https://dl.acm.org/doi/10.1145/3653448) |PPCDR|2024| TOIS |  |
 |[Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation](https://dl.acm.org/doi/10.1145/3589334.3645337)|PFCR|2024|WWW|[![Github](https://img.shields.io/github/stars/Sapphire-star/PFCR?style=flat)](https://github.com/Sapphire-star/PFCR)|
 | [FedCORE: Federated Learning for Cross-Organization Recommendation Ecosystem](https://ieeexplore.ieee.org/document/10443503) |FedCORE|2024| TKDE | [![Github](https://img.shields.io/github/stars/seek-up-well/FedCORE-code?style=flat)](https://github.com/seek-up-well/FedCORE-code) |
-|[Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2410.08249v1)|FedGCDR|2024|NeurIPS||
+|[Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2410.08249v1)|FedGCDR|2024|NeurIPS| [![Github](https://img.shields.io/github/stars/LafinHana/FedGCDR?style=flat)](https://github.com/LafinHana/FedGCDR/tree/main)|
 |[Privacy-Preserving Cross-Domain Sequential Recommendation](https://ieeexplore.ieee.org/abstract/document/10415824)|PriCDSR|2024|ICDM||
 |[FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning](https://aclanthology.org/2025.coling-main.581.pdf)|FedCSR|2025|COLING|[![Github](https://img.shields.io/github/stars/zdy769243418/FedCSR-v1?style=flat)](https://github.com/zdy769243418/FedCSR-v1)|
 
