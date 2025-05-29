@@ -41,6 +41,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 | [GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671702) | GPFedRec|2024|KDD | [![Github](https://img.shields.io/github/stars/zhangcx19/gpfedrec?style=flat)](https://github.com/zhangcx19/gpfedrec) |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://dl.acm.org/doi/abs/10.1145/3664927) |PerFedRec++|2024| ACM TIST |  |
 |[Cluster-driven Personalized Federated Recommendation with Interest-aware Graph Convolution Network for Multimedia](https://doi.org/10.1145/3664647.3680788)|CPF-GCN|2024|MM||
+|[Efficient and Robust Regularized Federated Recommendation](https://dl.acm.org/doi/abs/10.1145/3627673.3679682)|RFRec&RFRecF|2024|CIKM|[![Github](https://img.shields.io/github/stars/Applied-Machine-Learning-Lab/RFRec?style=flat)](https://github.com/Applied-Machine-Learning-Lab/RFRec)|
 |[Federated Recommender System Based on Diffusion Augmentation and Guided Denoising](https://dl.acm.org/doi/10.1145/3688570)|DGFedRS|2025|TOIS||
 
 
