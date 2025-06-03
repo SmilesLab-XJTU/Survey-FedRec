@@ -37,6 +37,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 |[Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation](https://dl.acm.org/doi/abs/10.1145/3511808.3557668)|PerFedRec|2022|CIKM|[![Github](https://img.shields.io/github/stars/sichunluo/PerFedRec?style=flat)](https://github.com/sichunluo/PerFedRec)|
 | [Dual Personalization on Federated Recommendation](https://www.ijcai.org/proceedings/2023/507) |PFedRec|2023 |IJCAI | [![Github](https://img.shields.io/github/stars/Zhangcx19/IJCAI-23-PFedRec?style=flat)](https://github.com/Zhangcx19/IJCAI-23-PFedRec) |
 | [Fine-Grained Preference-Aware Personalized Federated POI Recommendation with Data Sparsity](https://dl.acm.org/doi/10.1145/3539618.3591688) |PrefFedPOI|2023| SIGIR | [![Github](https://img.shields.io/github/stars/Leavesy/PrefFedPOI?style=flat)](https://github.com/Leavesy/PrefFedPOI)|
+|[Co-clustering for Federated Recommender System](https://dl.acm.org/doi/10.1145/3589334.3645626)|CoFedRec|2024|WWW||
 | [Federated Recommendation with Additive Personalization](https://doi.org/10.48550/arXiv.2301.09109) | FedRAP|2024|ICLR |[![Github](https://img.shields.io/github/stars/mtics/FedRAP?style=flat)](https://github.com/mtics/FedRAP)  |
 | [GPFedRec: Graph-Guided Personalization for Federated Recommendation](https://dl.acm.org/doi/10.1145/3637528.3671702) | GPFedRec|2024|KDD | [![Github](https://img.shields.io/github/stars/zhangcx19/gpfedrec?style=flat)](https://github.com/zhangcx19/gpfedrec) |
 | [PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training](https://dl.acm.org/doi/abs/10.1145/3664927) |PerFedRec++|2024| ACM TIST |  |
@@ -128,6 +129,7 @@ This is a repository for our survey "**A Scenario-Oriented Survey of Federated R
 |[Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2410.08249v1)|FedGCDR|2024|NeurIPS| [![Github](https://img.shields.io/github/stars/LafinHana/FedGCDR?style=flat)](https://github.com/LafinHana/FedGCDR/tree/main)|
 |[Privacy-Preserving Cross-Domain Sequential Recommendation](https://ieeexplore.ieee.org/abstract/document/10415824)|PriCDSR|2024|ICDM||
 |[FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning](https://aclanthology.org/2025.coling-main.581.pdf)|FedCSR|2025|COLING|[![Github](https://img.shields.io/github/stars/zdy769243418/FedCSR-v1?style=flat)](https://github.com/zdy769243418/FedCSR-v1)|
+|[Towards Personalized Federated Multi-Scenario Multi-Task Recommendation](https://dl.acm.org/doi/10.1145/3701551.3703523)|PF-MSMTrec|2025|WSDM||
 |[Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation](https://dl.acm.org/doi/abs/10.1145/3728359)|FFMSR|2025|TOIS|[![Github](https://img.shields.io/github/stars/Sapphire-star/FFMSR?style=flat)](https://github.com/Sapphire-star/FFMSR)|
 
 
